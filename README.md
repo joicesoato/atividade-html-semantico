@@ -14,7 +14,7 @@ O projeto contém dois layouts:
 ## Estrutura do Projeto
 
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 - imagens/
   - calca.png
@@ -93,8 +93,4 @@ Este projeto **não possui estilização (CSS)**, pois o foco está exclusivamen
 
 - Adicionar CSS para estilização  
 - Tornar o layout responsivo  
-<<<<<<< HEAD
 - Incluir interatividade com JavaScript  
-=======
-- Incluir interatividade com JavaScript  
->>>>>>> 356143f84a6c388a891216e1b06e11ae32726c78
